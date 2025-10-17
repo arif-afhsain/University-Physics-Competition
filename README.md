@@ -1,9 +1,8 @@
 # University Physics Competition (UPC) — Team Repository
 
-This repository contains our team’s work for the **University Physics Competition** (https://www.uphysicsc.com/ ) for 2023 and 2024.  We won a **Silver** medal in 2023 and a **Gold** medal in 2024. It was the second gold for our country (the first was in 2019, Team 289: https://www.uphysicsc.com/2019contest.html)
+This repository contains our team’s work for the **University Physics Competition** (https://www.uphysicsc.com/ ) for 2023 and 2024.  We won a **Silver** medal in 2023 and a **Gold** medal in 2024. It was the second gold for our country (the first was in 2019, Team 289: https://www.uphysicsc.com/2019contest.html )
 
 - 2024 problems and results: https://www.uphysicsc.com/2024contest.html
-P.S.: Our photo can be found by scrolling down a bit.
 
 ## About the competition
 UPC is an international, 48-hour team contest for undergraduate students. Teams tackle two open-ended physics problems, develop models and simulations, and submit a written report. Entries are judged on physical insight, modeling, computation, and clarity of presentation.
