@@ -9,7 +9,7 @@ UPC is an international, 48-hour team contest for undergraduate students. Teams 
 
 ## Tips for future participants
 - UPC usually occurs in the **first week of November**; results are often published in mid-January.  
-- Registration fee: **$45** (one-time, via faculty sponsor). If the fee poses a hardship, contact the organizers: [director@uphysicsc.com]{maolto:director@uphysicsc.com}.
+- Registration fee: **$45** (one-time, via faculty sponsor). If the fee poses a hardship, contact the organizers: [director@uphysicsc.com]{mailto:director@uphysicsc.com}.
 - Focus on simple, well-explained models and clean writing — clarity often beats complexity under the time constraint.
 
 ## Our team (University of Dhaka, Bangladesh)
